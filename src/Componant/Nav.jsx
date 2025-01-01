@@ -41,7 +41,7 @@ function NavBar() {
 
         {/* Contact Button */}
         <div>
-          <button onClick={()=>navigate("/getInTouch")} className="bg-white h-12 w-[200px] rounded-[40px] font-bold font-poppins">
+          <button onClick={()=>navigate("/getInTouch")} className="bg-white h-12 w-[200px] rounded-[40px] font-bold font-poppins hover:bg-yellow-50">
             GET IN TOUCH
           </button>
         </div>
