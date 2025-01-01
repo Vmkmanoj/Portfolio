@@ -3,13 +3,12 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-
-  "homepage": "https://Vmkmanoj.github.io/https://github.com/Vmkmanoj/Portfolio.git",
+  "homepage": "https://Vmkmanoj.github.io/Portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview"
   },
