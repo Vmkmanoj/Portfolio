@@ -14,7 +14,7 @@ function NavBar() {
         {/* Navigation Menu */}
         <div className="navigation hidden md:flex gap-10 text-white font-poppins">
           <ul>
-            <li className="cursor-pointer" onClick={() => navigate("/")}>
+            <li className="cursor-pointer" onClick={() => navigate("/Home")}>
               Home
             </li>
           </ul>

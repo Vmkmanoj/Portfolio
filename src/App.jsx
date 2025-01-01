@@ -16,7 +16,7 @@ function App() {
 
       {/* Define Routes */}
       <Routes>
-        <Route path="/" element={<Innerfiled />} />
+        <Route path="/Home" element={<Innerfiled />} />
         <Route path="/Project" element={<ProjectShowcase></ProjectShowcase>}></Route>
         <Route path="/Aboutme" element={<AboutMe></AboutMe>}></Route>
         <Route path="/getInTouch" element={<GetInTouch></GetInTouch>}></Route>
