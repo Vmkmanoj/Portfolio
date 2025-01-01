@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
 
-  "homepage": "https://Vmkmanoj.github.io/<your-repository>",
+  "homepage": "https://Vmkmanoj.github.io/https://github.com/Vmkmanoj/Portfolio.git",
   "scripts": {
     "dev": "vite",
   "predeploy": "npm run build",
