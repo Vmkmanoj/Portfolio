@@ -60,14 +60,14 @@ export const ProjectShowcase = () => {
           className="absolute left-4 top-1/2 -translate-y-1/2 z-10 text-white hover:text-blue-400 transition-colors"
           aria-label="Previous project"
         >
-          <FaChevronLeft size={24} className="mt-44"/>
+          <FaChevronLeft size={24} className="mt-44" color="black"/>
         </button>
         <button
           onClick={nextProject}
           className="absolute right-4 top-1/2 -translate-y-1/2 z-10 text-white hover:text-blue-400 transition-colors"
           aria-label="Next project"
         >
-          <FaChevronRight size={24} className="mt-44"/>
+          <FaChevronRight size={24} className="mt-44" color="black"/>
         </button>
 
         {/* Project Display */}
