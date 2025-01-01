@@ -125,7 +125,7 @@ export const ProjectShowcase = () => {
               key={index}
               onClick={() => setCurrentIndex(index)}
               className={`w-3 h-3 rounded-full transition-colors ${
-                index === currentIndex ? "bg-blue-500" : "bg-gray-300"
+                index === currentIndex ? "black" : "white"
               }`}
               aria-label={`Go to project ${index + 1}`}
             />
