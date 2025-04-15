@@ -54,7 +54,6 @@ function Innerfiled() {
             {
               img: resume,
               title: "See my resume",
-              description: "Learn More About Me",
               link: "https://drive.google.com/file/d/1mG-rWAs8_Oov35O38hbiQuEHdF7s0JdW/view?usp=sharing",
             },
             {
