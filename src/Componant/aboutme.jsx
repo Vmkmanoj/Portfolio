@@ -40,6 +40,22 @@ const AboutMe = () => {
             </div>
           </div>
 
+          <h3 className="text-2xl font-semibold text-gray-800 mt-8 mb-4">Internship Experience</h3>
+          <div className="text-gray-600 space-y-2">
+            <p><strong>Full Stack Developer Intern</strong><br />
+              Veyyil Robotic Private Limited, Remote<br />
+              Jan 2025 – Present
+            </p>
+            <ul className="list-disc list-inside space-y-2">
+              <li>Contributing to a live project called <strong>Emission Tracking</strong>, designed for greenhouse gas management and reporting.</li>
+              <li>Developed frontend features using Next.js, React, and Ant Design, including data entry forms, dashboards, and user interactions.</li>
+              <li>Built and integrated backend APIs using Python Flask, connected to a PostgreSQL database.</li>
+              <li>Implemented features like editable tables, localStorage persistence, template-based data saving, and real-time API integration.</li>
+              <li>Collaborated with a team to ensure responsive design, data validation, and smooth user experience.</li>
+              <li>Focused on Scoped Emissions Tracking, supporting organizational sustainability goals.</li>
+            </ul>
+          </div>
+
           <h3 className="text-2xl font-semibold text-gray-800 mt-8 mb-4">Courses Completed</h3>
           <ul className="list-disc list-inside space-y-2 text-gray-600">
             <li>Completed Python certification</li>
